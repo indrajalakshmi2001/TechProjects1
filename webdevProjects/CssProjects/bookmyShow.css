@@ -1,0 +1,50 @@
+body {
+  margin: 0;   
+}
+
+.all { 
+  background-color: rgb(51, 53, 69);
+  height: 65px; 
+  overflow: hidden;  
+}
+
+.logo {
+  height: 110px;
+  padding: 0;
+  margin: -20px 2000px 1px 125px;
+}
+
+.one{
+  padding : 2px 120px 2px 150px;
+}
+
+.two{
+  margin: 4px 0px 0px 0px;
+}
+
+.new {
+  background-color: #F2F3F4;   
+}
+
+.new h2 {
+  margin: 0;
+  padding: 25px 0px 0px 150px;
+}
+
+.movies-container, 
+.activities-container, 
+.events-container,
+.plays-container,
+.sports-container,
+h2{
+  display: flex;
+  flex-wrap: wrap;
+  padding : 0.1px 10px 0px 135px;
+}
+
+img {
+  width: 220px; 
+  height: 360px;
+  border-radius: 8px;
+  margin: 0 -25px; 
+}
